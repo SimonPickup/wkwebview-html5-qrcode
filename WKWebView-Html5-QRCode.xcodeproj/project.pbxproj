@@ -13,6 +13,7 @@
 		F47CC63725BF6C50005FDA50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F47CC63525BF6C50005FDA50 /* Main.storyboard */; };
 		F47CC63925BF6C51005FDA50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F47CC63825BF6C51005FDA50 /* Assets.xcassets */; };
 		F47CC63C25BF6C51005FDA50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F47CC63A25BF6C51005FDA50 /* LaunchScreen.storyboard */; };
+		F47CC64525BFEFE3005FDA50 /* html5-qrcode.min.js in Resources */ = {isa = PBXBuildFile; fileRef = F47CC64425BFEFE3005FDA50 /* html5-qrcode.min.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F47CC63825BF6C51005FDA50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F47CC63B25BF6C51005FDA50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F47CC63D25BF6C51005FDA50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F47CC64425BFEFE3005FDA50 /* html5-qrcode.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; name = "html5-qrcode.min.js"; path = "js/html5-qrcode.min.js"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F47CC63825BF6C51005FDA50 /* Assets.xcassets */,
 				F47CC63A25BF6C51005FDA50 /* LaunchScreen.storyboard */,
 				F47CC63D25BF6C51005FDA50 /* Info.plist */,
+				F47CC64425BFEFE3005FDA50 /* html5-qrcode.min.js */,
 			);
 			path = "WKWebView-Html5-QRCode";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F47CC63C25BF6C51005FDA50 /* LaunchScreen.storyboard in Resources */,
+				F47CC64525BFEFE3005FDA50 /* html5-qrcode.min.js in Resources */,
 				F47CC63925BF6C51005FDA50 /* Assets.xcassets in Resources */,
 				F47CC63725BF6C50005FDA50 /* Main.storyboard in Resources */,
 			);
